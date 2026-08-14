@@ -30,6 +30,8 @@ APIs, no accounts, no daemon, minimal attack surface.
 > Hyprland, …). To get true auto-typing on GNOME you must switch the typing
 > backend to [`ydotool`](https://github.com/ReimuNotMoe/ydotool) (uinput-based,
 > needs a daemon + permissions) — see [Typing on GNOME](#prerequisites).
+>
+> Prefer a GUI app over a script? See [`docs/alternative-handy.md`](docs/alternative-handy.md) for the same GNOME/Wayland fix applied to [Handy](https://github.com/cjpais/Handy).
 
 ## Features
 
